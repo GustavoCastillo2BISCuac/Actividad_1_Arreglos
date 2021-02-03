@@ -2,7 +2,7 @@ package dias_de_la_semana;
 import java.util.Scanner;
 /** @author GUSTAVO CASTILLO */
 public class DIAS_DE_LA_SEMANA {
-static void main(String[] args) {
+public static void main(String[] args) {
         // TODO code application logic here
         Scanner entrada = new Scanner(System.in);
       String Dia[]={"Domingo", "Lunes", "Martes", "Miercoles", "Jueves", "Viernes", "Sabado"};
